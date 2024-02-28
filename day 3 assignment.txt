@@ -1,0 +1,16 @@
+answer
+1.closing bracket after system out println
+2.
+class result {
+    i=0;
+        public static void main(String[] args) {
+        while(i>40)
+        System.out.println("pass");
+          System.out.println("fail");
+          i++;
+    }
+}
+3.10
+4.int number;
+   for(number=10;number<15;number++)
+ 
